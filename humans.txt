@@ -1,0 +1,16 @@
+/* TEAM */
+	Web designer: Laura Zango
+	Contact: laura.zango3@gmail.com
+	From: Barcelona, Catalonia, Spain
+
+/* THANKS */
+	First image cover slider: Nagini
+	From: Barcelona, Catalonia, Spain
+
+/* SITE */
+	Last update: 2021/06/09
+	Language: Castellano
+	Doctype: HTML5
+	Standards: HTML5, CSS3, JavaScript, PHP, MySQL
+	Software: Sublime Text, Eclipse IDE, MySQL Workbench
+	
